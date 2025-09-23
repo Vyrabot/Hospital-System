@@ -1,2 +1,3 @@
 # Hospital-System
-** test
+** how to use:
+** create folder hospital on drive (D:) name 'hospital'
